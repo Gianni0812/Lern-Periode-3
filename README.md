@@ -22,3 +22,15 @@ Ich habe heute alle meine Fargen in mein Projekt eingefügt und bekomme bei jede
 
 Ich habe nicht alle Arbeitspakete geschaft da ich Probleme hatte, die ich beheben musste. Ich habe jetzte ien ganz neues Projekt gemacht und nun Funktioniert alles wieder einwandfrei. Der Button wird jetzt bei richtigen Antworten kurz grün und bei falschen kurz rot. So hat man eine übersicht ob man es richtig hatte oder nicht.
 
+# Fertiges Projekt
+In der Lernperiode 3 habe ich zum ersten Mal mit WinForms programmiert. Ich habe ein kleines Quiz erstellt mit einer Frage, vier Antwortmöglichkeiten, Punkten und einem Timer. Das Programm nimmt die Fragen, die ich in eine Liste geschrieben habe, und ordnet sie zufällig den vier verschiedenen Buttons zu. Drückt man einen falschen Button, leuchtet er kurz rot auf, und die Punkte verringern sich um eins. Hat man keine Punkte mehr, endet das Spiel. Bei einer richtigen Antwort leuchtet der Button kurz grün auf, und es geht zur nächsten Frage. Bei jeder neuen Frage wird der Timer zurückgesetzt. Man hat pro Frage 15 Sekunden Zeit. Ist die Zeit abgelaufen, wird das Programm ebenfalls beendet.
+
+
+
+https://github.com/user-attachments/assets/3fd939a7-860e-44c3-a536-19ae3aad5204
+
+
+![image](https://github.com/user-attachments/assets/36c3725f-75a3-4e9a-9064-0bb3905c9c9d)
+
+
+
