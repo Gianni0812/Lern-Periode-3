@@ -1,4 +1,4 @@
-namespace Quiz
+namespace Quiz2
 {
     internal static class Program
     {
