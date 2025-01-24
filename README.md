@@ -33,4 +33,8 @@ https://github.com/user-attachments/assets/3fd939a7-860e-44c3-a536-19ae3aad5204
 ![image](https://github.com/user-attachments/assets/36c3725f-75a3-4e9a-9064-0bb3905c9c9d)
 
 
+![image](https://github.com/user-attachments/assets/f23e2c33-ca0c-4150-acde-684a552e28c8)
 
+
+## Reflexion
+Wir hatten für dieses Projekt nicht viel Zeit, weshalb ich nicht allen meinen Ideen nachgehen konnte. Trotzdem hat das Projekt sehr Spass gemacht. Ich hatte aber leider gegen Ende des Projektes ein Problem, das mein ganzes Projekt kaputt gemacht hat. Ich habe aus Versehen etwas gelöscht, wodurch mein Projekt nicht mehr funktionierte. Also habe ich ein neues Projekt erstellt und mein Programm rüberkopiert, was sehr gut geklappt hat. Nun funktioniert mein Programm wieder einwandfrei. Mit dem Endprodukt bin ich jetzt sehr zufrieden und finde, dass ich mein Quiz für das erste Mal gut hinbekommen habe.
