@@ -16,6 +16,9 @@ Ich habe mir heute Fragen überlegt und auch im Internet recherchiert, die ich f
 Ich habe heute alle meine Fargen in mein Projekt eingefügt und bekomme bei jeder richtigen Antwort eine neue Frage. Ich habe Minuspunkte hinzugefügt, die nach unten gehen wenn man etwas falsch hat und bei null stoppt das Programm da man verloren hat. Unter den Punkten habe ich jetzt auch einen Timer mit 15 sejunden Zeit. Dieser startet bei jeder neuen frage neu. Hat man keine Zeit mehr ist das spiel ebenfalls zu ende.
 
 ## 24.01.2025
-- [ ] Buttons bei der Richtigen Antwort kurz grün färben und bei falschen kurz Rot
+- [x] Buttons bei der Richtigen Antwort kurz grün färben und bei falschen kurz Rot
 - [ ] Menu einfügen mit Musik.
-- [ ] Alle Namen auf englsich machen
+- [x] Alle Namen auf englsich machen
+
+Ich habe nicht alle Arbeitspakete geschaft da ich Probleme hatte, die ich beheben musste. Ich habe jetzte ien ganz neues Projekt gemacht und nun Funktioniert alles wieder einwandfrei. Der Button wird jetzt bei richtigen Antworten kurz grün und bei falschen kurz rot. So hat man eine übersicht ob man es richtig hatte oder nicht.
+
